@@ -3,21 +3,31 @@ This repository I will maintain to put all the resources I use to learn Robotics
 
 *Syllabus Draft:*
 
-Robotics Basics: 
+Robotics: 
 1. Physics: 
    * Dynamics 
    * Kinematics 
    * Coordinate system 
    * Time, Motion & Trajectory 
+   
 2. Mathematics: 
    * Linear Algebra 
    * Calculus 
    * Differential Equation 
    * Geometry 
+   * Probability Theory
+   
 3. Instrumentation: 
-   * Control system 
- 
-4. Software: 
+   * Control systems
+   * Digital Signal processing
+   
+4. Robotics Engineering:
+   * 2D Path Planning
+   * 3D Path Planning
+   * Computer Vision
+   * 3D Perception
+   
+5. Software: 
    * ROS 
    * Basics 
    * Simulation 
@@ -25,14 +35,20 @@ Robotics Basics:
    * Ardupilot 
    * Computer Vision 
    * R/Octave 
-   * Python 
-  
-5. 3D printing: 
+   * Python
+   
+6. Information Science:
+   * Artificial Intelligence
+   * Machine Learning
+   * Deep Learning
+   * Wireless Sensor networks
+   
+7. 3D printing: 
    * Designing 
    * Printing 
    
-6. Hardware: 
-   * Chassis Design. 
+8. Hardware: 
+   * Mechanical Design 
    * Self balancing Design 
    * Circuit design 
    * Beaglebone Blue 
@@ -46,14 +62,15 @@ Robotics Basics:
    * Bluetooth, WiFi
    * LIDAR, RADAR etc
 
-7. Projects: 
+9. Projects: 
    * 4WD Rover 
    * Self Balancing EduMIP 
    * Robotic ARM 
-   * Quadcopter 
+   * Quadcopter
+   * Humonaid
 	 
-8. Material Science: 
+10. Material Science: 
    * Choosing material 
 	 
-9. Basic knowledge on Wood working, metal cutting and welding.
+11. Basic knowledge on Wood working, metal cutting and welding.
 
