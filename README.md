@@ -56,9 +56,9 @@ Robotics:
    * Motor control 
    * Radio Transceiver 
    * Accelerometer 
-   * Gyro 
+   * Gyroscope
    * GPS 
-   * Batteries 
+   * Battery technology
    * Bluetooth, WiFi
    * LIDAR, RADAR etc
 
