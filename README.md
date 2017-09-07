@@ -26,9 +26,11 @@ Robotics:
    * 3D Path Planning
    * Computer Vision
    * 3D Perception
+   * SLAM
    
 5. Software: 
-   * ROS 
+   * ROS
+   * Gazebo
    * Basics 
    * Simulation 
    * Advanced concepts 
