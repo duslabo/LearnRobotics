@@ -31,9 +31,7 @@ Robotics:
 5. Software: 
    * ROS
    * Gazebo
-   * Basics 
    * Simulation 
-   * Advanced concepts 
    * Ardupilot 
    * Computer Vision 
    * R/Octave 
